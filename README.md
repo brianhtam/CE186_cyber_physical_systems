@@ -1,10 +1,6 @@
 # CE186_cyber_physical_systems
 
 # \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
-
-![](RackMultipart20201101-4-zw7kqh_html_669a11af59597cb0.png)
-#
-
 # **Smart Air Bears**
 
 _empowered personal pollution monitoring_
