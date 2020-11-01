@@ -11,7 +11,7 @@ _for all_
 
 CE 186 Fall 2017 Final Project
 
-Team Members: Garima Raheja, Matt Choi, John Stuart, Brian Tam
+Team Members: Brian Tam, Garima Raheja, Matt Choi, John Stuart
 
 **ABSTRACT** Smart Air Bears is a low-cost, high-quality air quality monitoring system which connects to a web app to provide granular measurements of heterogeneous air quality, and also provides personalized health recommendations for a diverse user community. Smart Air Bears is unique in the following ways: i) it is affordable, pricing at $59, while most personal air quality sensors cost upwards of $200, ii) it is personal, sensing air quality around a user, becoming more useful than government-monitored air quality maps of large regions that do not capture heterogeneity in a user&#39;s personal environment, iii) it is helpful, providing not only air quality data but also scientific information-backed contextualization and personalized health recommendations. While the primary goal of this product is the improvement of health and environmental awareness among users, a &quot;back-of-the-envelope&quot; estimate indicates large economic benefits as well. In the United States alone, this product could help users reduce the estimated $46 billion/year in lost GDP caused by air pollution, with potential gains reaching even higher in other nations such as China, which loses up to $280 billion/year due to air quality related healthcare costs, reduced agricultural yield, and lost worker productivity (OECD, 2016).
 
