@@ -1,0 +1,19 @@
+keyStrings = ["Average Levels","Health Level","Percent Poor","Reading Number","t"]
+postStrings = {"T":[,,]}
+if 1==0:
+    Reclist = {'PM':["PM2.5 and PM10 consists of small particles of dust, smoke, spores, pollen, and solid forms of other pollutants such as SOx and NOx. It can cause respiratory irritation as well as trigger allergies and the development of asthma.Consider the following if you would like to reduce PM in your home.",
+	 								"Check and replace old HVAC filters to ensure better filtering of PM in your air distribution system",
+									"Consider replacing porous and absorbant materials with nonporous surfaces like swapping carpet for hard flooring",
+						   'RH':["Relative humidity is the percent of water that is in the air compared to the maximum amount that air could hold. Both excessively high and excessively low levels can promote allergies, asthma, and disease transmission as well as ozone production, fungi, and mites. To maintin a moderate RH consider the following:",
+									"If relative humidity is too low consider using a humidifyer or indoor plants",
+									"If relative humidity is too high consider changing your HVAC settings, using a dehumidifier, or checking if kitchen and bathroom ventilation is functioning properly",
+									"Ensure indoor pools and water features are well ventilated and isolated air tight from rooms in your home not designed for high humidity"],
+						   'VOC':["Your VOC levels are high. VOCs are compounds that can cause eye and respiratory irritation, unpleasant odors, and sometimes even have carcinogenic effects. Consider the following if you would like to reduce VOCs in your home."
+									"Get VOC absorbing houseplants to clean your air. Studies show some plants absorb up to _________ ",
+									"Check for signs of mold and remove affected substrates as molds produce VOCs",
+				        'CO2':["CO2 is produced in combustion and when we breathe. While not toxic, in large concentrations it can produce fatigue, headaches, sensations of stuffiness, and malaise. Consider the following if you would like to reduce CO2 in your home.", "Check and potentially replace your HVAC if they are too dirty to allow proper airflow",
+									"Consider replacing your filters to allow more outside airflow into your ventilation system",
+									"Use cross ventilation by opening windows on opposite sides of the building to drive airflow through, preferable in line with prevailing winds.",
+									"If you are in a multi story building, open windows on opposites sides of the building",
+					            }
+	
